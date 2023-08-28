@@ -8,6 +8,7 @@ Python/pip for Windows\
 Code editor: VS Code or Notepad++ 
 
 ## Directions:
+Extract LRS-FAST-API-main.zip.\
 In file explorer, Go to directory of the script is installed, type cmd to open up the CLI.\
 pip install "uvicorn[standard]".\
 pip install LRS Python library using the link above.\
