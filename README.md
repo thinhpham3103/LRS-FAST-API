@@ -17,4 +17,4 @@ Modify the SubmittedJobs folder directory by copying the path where this script 
 After editing the code, save it and run "python main.py" in the CLI.\
 Open the web browser and direct to the url: http://127.0.0.1:8000, there you will be able to upload a file.\
 Once the file is submitted, the submitted job should be automatically in your PPQ.\
-Ctrl + C to terminate the server.\
+Ctrl + C to terminate the server.
