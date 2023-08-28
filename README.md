@@ -1,12 +1,13 @@
-DOCS & GUIDES:
+## LRS FAST API for job submission
+# DOCS & GUIDES:
 Official guide for FASI API: https://fastapi.tiangolo.com/
 LRS Python library source: https://eomhbbuild01.lrsinc.org/RemotePyInstaller/Documentation 
 
-Requirements:
+# Requirements:
 Python/pip for Windows
 Code editor: VS Code or Notepad++ 
 
-Directions:
+# Directions:
 In file explorer, Go to directory of the script is installed, type cmd to open up the CLI.
 pip install "uvicorn[standard]".
 pip install LRS Python library using the link above.
